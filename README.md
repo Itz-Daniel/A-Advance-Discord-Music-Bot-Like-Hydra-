@@ -1,9 +1,9 @@
 # Discord.js Lavalink Music Bot using erela.js
 # A Advance Discord Music Bot Like Hydra
 
-[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://lava.milrato.eu) if u want to support me, then please [invite](https://lava.milrato.eu) him!**
+[Erela.js docs](https://solaris.codes/projects/erelajs) **Note this Discord Bot Repository is the Same as for the Public Bot [Lava Music](https://dsc.gg/unicron) if u want to support me, then please [invite](https://dsc.gg/unicron) him!**
 
-## [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+## [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/g8uvSAmq6K)
 
 **IF YOU WANNA USE CUSTOM EMOJIS, AND SHARD THEN CHECK OUT THE CUSTOM-EMOJIS TAB(branch)!**
 
@@ -82,7 +82,7 @@ Bittmax is our first and probably most important sponsor!
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.gg/GgjJZCyYKD](https://discord.gg/GgjJZCyYKD)
+[https://discord.gg/GgjJZCyYKD](https://discord.gg/g8uvSAmq6K)
 
 **Website:**
 [https://bittmax.de/](https://bittmax.de/])
@@ -103,7 +103,7 @@ Like For games..
 > GAME SERVER, Rust, Gary's Mod, ..
 
 **Discord Server:**
-[https://discord.com/invite/4dGuGXK4A4](https://discord.com/invite/4dGuGXK4A4)
+[Coding Zone support server ](https://discord.gg/g8uvSAmq6K)
 
 **Website:**
 [mc-host24.de](https://mc-host24.de/user/affiliate/3121])
