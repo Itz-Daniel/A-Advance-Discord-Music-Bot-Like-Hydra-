@@ -12,3 +12,4 @@ ECHO ==========================
 ECHO ==========================
 start cmd /k node .
 exit /s
+//this code by Itz_Danny
