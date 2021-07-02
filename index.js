@@ -34,3 +34,5 @@ client.userProfiles = new Enmap({ name: 'userProfiles', dataDir: "./databases/wa
 
 //login into the bot
 client.login(require("./botconfig/config.json").token);
+//credit goes to tech boy
+//implemented by itz_Danny
