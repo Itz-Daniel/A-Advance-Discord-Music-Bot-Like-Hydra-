@@ -1,6 +1,6 @@
 {
-  "token": "your_bot_token",
-  "prefix": "your_prefix",
+  "token": "your_bot_token",//bot token should go there
+  "prefix": "your_prefix",// your fav prefix
 
   "clientsettings": {
     "nodes": [
@@ -8,15 +8,14 @@
          "host": "localhost",
          "port": 2333,
          "password": "youshallnotpass"
-       }
+       }//leave it the way it is 
      ]
   },
 
   "spotify": {
     "clientSecret": "",
     "clientID": ""
-  },
-
+  },//Spotify client and secret id
   "settings": {
        "COMMENT": "time_delay 0 === insta leave",
     "progressbar_emoji": "🔶",
@@ -37,7 +36,7 @@
     "ksoft_api": {
       "use_this_instead": false,
       "api_key": ""
-    }
+    }//api_key needed
   },
 
 
@@ -45,7 +44,7 @@
 
 
   "status": {
-    "text": "!help | Tech Boy Gaming",
+    "text": "!help | Itz_Danny",
     "type": "PLAYING", "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
     "url": "https://twitch.tv/TBG"
   }
